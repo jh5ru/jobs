@@ -7,6 +7,10 @@
 
 Список работ:
 
+https://prosvetco.ru - Вёрстка шаблона (Wordpress) 
+
+http://primorskiy.spb.ru - Вёрстка шаблона (Wordpress) 
+
 https://tdkelle.ru - Разработка интернет-магазина B2B (laravel 5.7) 
 
 http://trk-ub.ru - Доработка верстки, создание функционала он-лайн заказов билетов (wordpress, api)
